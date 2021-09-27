@@ -33,7 +33,7 @@ The purpose of this election audit is to assist the Colorado Board of Elections 
 ## Election-Audit Summary: 
 Using this Election Audit, election results can easily be verified and double checked. This audit can be converted to run and access results from any .csv file providing the raw numbers of an election. It can easily be moved and is already set up to do the "heavy technical lifting," but will produce results that are easy for most to process. As seen here:
 
-![](Resources/Election_Results.png)
+![](Resources/Election_Results.PNG)
 
 One modification that could be made to this audit would be to breakdown each counties numbers by candidate, to pinpoint where each candidate got the most/least votes. It can then be possibly used for campaign/marketing purposes. This audit could also be modified to predict voter involvement for future elections. It can target better voting markets to see patterns or even assist with local legislation. Based on region it can even be used to consider future candidates winning possibilities and the amount of voters to normally cast their vote. 
 
